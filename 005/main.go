@@ -1,5 +1,5 @@
+// 005/main.go # This program prints the numbers from 0 to 20, inclusive, and then prints "End of program"
 
-# This program prints the numbers from 0 to 20, inclusive, and then prints "End of program".
 package main
 
 import "fmt"

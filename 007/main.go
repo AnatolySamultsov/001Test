@@ -1,4 +1,5 @@
-# print
+// File: 007/main.go
+// ## This program prints the uppercase letters A-Z and lowercase letters a-z
 
 package main
 

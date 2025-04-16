@@ -1,3 +1,4 @@
+# print only even numbers from 0 to 20
 package main
 
 import "fmt"

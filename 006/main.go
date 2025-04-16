@@ -1,4 +1,5 @@
-# print only even numbers from 0 to 20
+// File: 006/main.go
+// ## This program prints the even numbers from 0 to 20, inclusive, and then prints "End of program"
 package main
 
 import "fmt"

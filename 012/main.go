@@ -1,12 +1,16 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
+
+type bookStruct struct {
+	Title     string
+	Author    string
+	Data_type string
+}
 
 func main() {
 
-	book1 := bookStruct.md{
+	book1 := bookStruct{
 		Title:     "The Great Gatsby",
 		Author:    "F. Scott Fitzgerald",
 		Data_type: "1925",

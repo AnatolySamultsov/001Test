@@ -16,7 +16,7 @@ func main() {
 
 	// Lowercase a-z
 	for ch := 'a'; ch <= 'z'; ch++ {
-		fmt.Printf("%c ", ch)
+		fmt.Printf("%c", ch)
 	}
 	fmt.Println()
 }
